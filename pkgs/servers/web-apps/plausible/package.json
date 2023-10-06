@@ -35,7 +35,7 @@
     "mini-css-extract-plugin": "^1.6.0",
     "phoenix": "file:../../tmp/deps/phoenix",
     "phoenix_html": "file:../../tmp/deps/phoenix_html",
-    "postcss": "^8.3.0",
+    "postcss": "^8.4.31",
     "postcss-loader": "^6.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
